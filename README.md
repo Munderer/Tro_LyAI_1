@@ -1,5 +1,5 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot Trợ lý thực tập sinh
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
+Trợ lý thứ nhất
 
 
